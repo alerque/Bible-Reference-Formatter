@@ -34,7 +34,7 @@ const styles = Object.freeze({
     books: {
       "Gen": [ "Yaratılış" ],
       "Exod": [ "Mısır’dan Çıkış" ],
-      "Lev": [ "Levılıler" ],
+      "Lev": [ "Levililer" ],
       "Num": [ "Çölde Sayım" ],
       "Deut": [ "Yasa’nın Tekrarı" ],
       "Josh": [ "Yeşu" ],
