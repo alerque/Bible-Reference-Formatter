@@ -50,7 +50,7 @@ const styles = Object.freeze({
       "Neh": [ "Nehemya" ],
       "Esth": [ "Ester" ],
       "Job": [ "Eyüp" ],
-      "Ps": [ "Mezmurlar" ],
+      "Ps": [ "Mezmur", "Mezmur", "Mezmurlar" ],
       "Prov": [ "Süleyman’ın Özdeyişleri" ],
       "Eccl": [ "Vaiz" ],
       "Song": [ "Ezgiler Ezgisi" ],
