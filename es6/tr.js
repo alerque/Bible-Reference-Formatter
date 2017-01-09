@@ -59,7 +59,7 @@ const styles = Object.freeze({
       "Lam": [ "Ağitlar" ],
       "Ezek": [ "Hezekiel" ],
       "Dan": [ "Daniel" ],
-      "Hos": [ "Hosea" ],
+      "Hos": [ "Hoşea" ],
       "Joel": [ "Yoel" ],
       "Amos": [ "Amos" ],
       "Obad": [ "Ovadya" ],
