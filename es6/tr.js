@@ -56,7 +56,7 @@ const styles = Object.freeze({
       "Song": [ "Ezgiler Ezgisi" ],
       "Isa": [ "Yeşaya" ],
       "Jer": [ "Yeremya" ],
-      "Lam": [ "Ağitlar" ],
+      "Lam": [ "Ağıtlar" ],
       "Ezek": [ "Hezekiel" ],
       "Dan": [ "Daniel" ],
       "Hos": [ "Hoşea" ],
